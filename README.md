@@ -21,9 +21,9 @@ in process
 
 ```
 ## References
-https://github.com/sullo/nikto
-https://github.com/ghostlulzhacks/CertificateTransparencyLogs/blob/master/certsh.py
-https://github.com/ghostlulzhacks/crawler/tree/master
-https://github.com/projectdiscovery/wappalyzergo
+- https://github.com/sullo/nikto
+- https://github.com/ghostlulzhacks/CertificateTransparencyLogs/blob/master/certsh.py
+- https://github.com/ghostlulzhacks/crawler/tree/master
+- https://github.com/projectdiscovery/wappalyzergo
 
 
